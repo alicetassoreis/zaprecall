@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { cards } from "./data/cards";
+import { cards } from "./data/Cards";
 import Deck from "./components/Deck";
 import Footer from "./components/Footer";
 import GlobalStyle from "./styles/GlobalStyle";
