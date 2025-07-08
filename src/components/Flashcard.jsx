@@ -36,7 +36,7 @@ const Texto = styled.p`
 const Botoes = styled.div`
   display: flex;
   justify-content: space-between;
-  gap: 10px;
+  gap: 11px;
 `;
 
 const Botao = styled.button`
